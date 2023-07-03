@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VasilMadin
-- 👀 I’m interested in Front-End development (HTML,Css,JavaScript,Bootstrap,React,Angular)
-- 🌱 I’m currently learning React and JavaScript OOP
+- 👀 I’m а  Front-End development (HTML,Css,JavaScript,Bootstrap,React,Angular)
+- 🌱 I’m currently strong in React and Angular
 - 💞️ I’m looking to collaborate on cool projects!
 - 📫 How to reach me https://vasilmadin.netlify.com or waskomadin2@gmail.com
 
